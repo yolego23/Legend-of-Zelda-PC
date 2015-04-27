@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: ff0404f87d050794889ecc1f6194b07f
+timeCreated: 1430176781
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Legend of Zelda - NPCs_OldGuy1
+    21300002: NES - Legend of Zelda - NPCs_OldGuy2
+    21300004: NES - Legend of Zelda - NPCs_GirlGreen1
+    21300006: NES - Legend of Zelda - NPCs_GirlGreen2
+    21300008: NES - Legend of Zelda - NPCs_ShopKeeper
+    21300010: NES - Legend of Zelda - NPCs_OldWomen
+    21300012: NES - Legend of Zelda - NPCs_GirlWhite1
+    21300014: NES - Legend of Zelda - NPCs_GirlWhite2
+    21300016: NES - Legend of Zelda - NPCs_GirlRed2
+    21300018: NES - Legend of Zelda - NPCs_GirlRed1
+    21300020: NES - Legend of Zelda - NPCs_Fariy2
+    21300022: NES - Legend of Zelda - NPCs_Fairy1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NES - Legend of Zelda - NPCs_OldGuy1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - NPCs_OldGuy2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - NPCs_GirlGreen1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 60
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - NPCs_GirlGreen2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 40
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - NPCs_ShopKeeper
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 100
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - NPCs_OldWomen
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - NPCs_GirlWhite1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 60
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - NPCs_GirlWhite2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 40
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - NPCs_GirlRed2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 40
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - NPCs_GirlRed1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 60
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - NPCs_Fariy2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 80
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - NPCs_Fairy1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 100
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

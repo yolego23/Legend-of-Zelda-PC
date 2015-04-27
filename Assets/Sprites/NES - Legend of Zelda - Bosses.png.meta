@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 08c85b4217f18fd4385a79cf523acd37
+timeCreated: 1430178108
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Legend of Zelda - Bosses_ AQUAMENTUS1
+    21300002: NES - Legend of Zelda - Bosses_ AQUAMENTUS2
+    21300004: NES - Legend of Zelda - Bosses_ AQUAMENTUS3
+    21300006: NES - Legend of Zelda - Bosses_ AQUAMENTUS4
+    21300008: NES - Legend of Zelda - Bosses_Digdogger3
+    21300010: NES - Legend of Zelda - Bosses_Digdogger4
+    21300012: NES - Legend of Zelda - Bosses_Digdogger1
+    21300014: NES - Legend of Zelda - Bosses_Digdogger2
+    21300016: NES - Legend of Zelda - Bosses_GleeokBody1
+    21300018: NES - Legend of Zelda - Bosses_GleeokBody2
+    21300020: NES - Legend of Zelda - Bosses_GleeokBody3
+    21300022: NES - Legend of Zelda - Bosses_GleeokHead
+    21300024: NES - Legend of Zelda - Bosses_GleeokHeadGhost
+    21300026: NES - Legend of Zelda - Bosses_GleeokNeck
+    21300028: NES - Legend of Zelda - Bosses_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NES - Legend of Zelda - Bosses_ AQUAMENTUS1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 311
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_ AQUAMENTUS2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 311
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_ AQUAMENTUS3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 311
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_ AQUAMENTUS4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 311
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_Digdogger3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 319
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_Digdogger4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 319
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_Digdogger1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 311
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_Digdogger2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 311
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_GleeokBody1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 264
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_GleeokBody2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 265
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_GleeokBody3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 264
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_GleeokHead
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 263
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_GleeokHeadGhost
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_GleeokNeck
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 291
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 236
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
