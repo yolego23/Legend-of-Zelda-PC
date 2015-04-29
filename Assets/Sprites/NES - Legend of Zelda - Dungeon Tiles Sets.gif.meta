@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: b697f0be8a14baf478e21cc540ff7698
-timeCreated: 1430255503
+timeCreated: 1430333907
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -347,6 +347,10 @@ TextureImporter:
     21300680: NES - Legend of Zelda - Dungeon Tiles Sets_340
     21300682: NES - Legend of Zelda - Dungeon Tiles Sets_341
     21300684: NES - Legend of Zelda - Dungeon Tiles Sets_342
+    21300686: NES - Legend of Zelda - Dungeon Tiles Sets_343
+    21300688: NES - Legend of Zelda - Dungeon Tiles Sets_344
+    21300690: NES - Legend of Zelda - Dungeon Tiles Sets_345
+    21300692: NES - Legend of Zelda - Dungeon Tiles Sets_346
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
