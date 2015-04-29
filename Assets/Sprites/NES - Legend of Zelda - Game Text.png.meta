@@ -1,9 +1,17 @@
 fileFormatVersion: 2
 guid: fc900476e2bc7c443907eb87ff357b48
-timeCreated: 1430174070
+timeCreated: 1430256195
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: NES - Legend of Zelda - Game Text_0
+    21300002: NES - Legend of Zelda - Game Text_1
+    21300004: NES - Legend of Zelda - Game Text_2
+    21300006: NES - Legend of Zelda - Game Text_3
+    21300008: NES - Legend of Zelda - Game Text_4
+    21300010: NES - Legend of Zelda - Game Text_5
+    21300012: NES - Legend of Zelda - Game Text_6
+    21300014: NES - Legend of Zelda - Game Text_7
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,14 +38,14 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -48,7 +56,87 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: NES - Legend of Zelda - Game Text_0
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 297
+        width: 247
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Game Text_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 360
+        width: 249
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Game Text_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 425
+        width: 248
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Game Text_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 486
+        width: 249
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Game Text_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 8
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Game Text_5
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 45
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Game Text_6
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 8
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Game Text_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 184
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 

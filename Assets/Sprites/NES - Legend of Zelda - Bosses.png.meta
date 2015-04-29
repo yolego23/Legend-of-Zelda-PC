@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 08c85b4217f18fd4385a79cf523acd37
-timeCreated: 1430178108
+timeCreated: 1430255393
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -18,7 +18,71 @@ TextureImporter:
     21300022: NES - Legend of Zelda - Bosses_GleeokHead
     21300024: NES - Legend of Zelda - Bosses_GleeokHeadGhost
     21300026: NES - Legend of Zelda - Bosses_GleeokNeck
-    21300028: NES - Legend of Zelda - Bosses_0
+    21300028: NES - Legend of Zelda - Bosses_DodongoForward1
+    21300030: NES - Legend of Zelda - Bosses_DodongoForward2
+    21300032: NES - Legend of Zelda - Bosses_DodongoSideways1
+    21300034: NES - Legend of Zelda - Bosses_DodongoSideways2
+    21300036: NES - Legend of Zelda - Bosses_0
+    21300038: NES - Legend of Zelda - Bosses_1
+    21300040: NES - Legend of Zelda - Bosses_2
+    21300042: NES - Legend of Zelda - Bosses_3
+    21300044: NES - Legend of Zelda - Bosses_4
+    21300046: NES - Legend of Zelda - Bosses_5
+    21300048: NES - Legend of Zelda - Bosses_6
+    21300050: NES - Legend of Zelda - Bosses_7
+    21300052: NES - Legend of Zelda - Bosses_8
+    21300054: NES - Legend of Zelda - Bosses_9
+    21300056: NES - Legend of Zelda - Bosses_10
+    21300058: NES - Legend of Zelda - Bosses_11
+    21300060: NES - Legend of Zelda - Bosses_12
+    21300062: NES - Legend of Zelda - Bosses_13
+    21300064: NES - Legend of Zelda - Bosses_14
+    21300066: NES - Legend of Zelda - Bosses_15
+    21300068: NES - Legend of Zelda - Bosses_16
+    21300070: NES - Legend of Zelda - Bosses_17
+    21300072: NES - Legend of Zelda - Bosses_18
+    21300074: NES - Legend of Zelda - Bosses_19
+    21300076: NES - Legend of Zelda - Bosses_20
+    21300078: NES - Legend of Zelda - Bosses_21
+    21300080: NES - Legend of Zelda - Bosses_22
+    21300082: NES - Legend of Zelda - Bosses_23
+    21300084: NES - Legend of Zelda - Bosses_24
+    21300086: NES - Legend of Zelda - Bosses_25
+    21300088: NES - Legend of Zelda - Bosses_26
+    21300090: NES - Legend of Zelda - Bosses_27
+    21300092: NES - Legend of Zelda - Bosses_28
+    21300094: NES - Legend of Zelda - Bosses_29
+    21300096: NES - Legend of Zelda - Bosses_30
+    21300098: NES - Legend of Zelda - Bosses_31
+    21300100: NES - Legend of Zelda - Bosses_32
+    21300102: NES - Legend of Zelda - Bosses_33
+    21300104: NES - Legend of Zelda - Bosses_34
+    21300106: NES - Legend of Zelda - Bosses_35
+    21300108: NES - Legend of Zelda - Bosses_36
+    21300110: NES - Legend of Zelda - Bosses_37
+    21300112: NES - Legend of Zelda - Bosses_38
+    21300114: NES - Legend of Zelda - Bosses_39
+    21300116: NES - Legend of Zelda - Bosses_40
+    21300118: NES - Legend of Zelda - Bosses_41
+    21300120: NES - Legend of Zelda - Bosses_42
+    21300122: NES - Legend of Zelda - Bosses_43
+    21300124: NES - Legend of Zelda - Bosses_44
+    21300126: NES - Legend of Zelda - Bosses_45
+    21300128: NES - Legend of Zelda - Bosses_46
+    21300130: NES - Legend of Zelda - Bosses_47
+    21300132: NES - Legend of Zelda - Bosses_48
+    21300134: NES - Legend of Zelda - Bosses_49
+    21300136: NES - Legend of Zelda - Bosses_50
+    21300138: NES - Legend of Zelda - Bosses_51
+    21300140: NES - Legend of Zelda - Bosses_52
+    21300142: NES - Legend of Zelda - Bosses_53
+    21300144: NES - Legend of Zelda - Bosses_54
+    21300146: NES - Legend of Zelda - Bosses_55
+    21300148: NES - Legend of Zelda - Bosses_56
+    21300150: NES - Legend of Zelda - Bosses_57
+    21300152: NES - Legend of Zelda - Bosses_58
+    21300154: NES - Legend of Zelda - Bosses_59
+    21300156: NES - Legend of Zelda - Bosses_60
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -64,7 +128,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: NES - Legend of Zelda - Bosses_ AQUAMENTUS1
+    - name: NES - Legend of Zelda - Bosses_0
       rect:
         serializedVersion: 2
         x: 4
@@ -72,9 +136,9 @@ TextureImporter:
         width: 24
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Legend of Zelda - Bosses_ AQUAMENTUS2
+    - name: NES - Legend of Zelda - Bosses_1
       rect:
         serializedVersion: 2
         x: 49
@@ -82,9 +146,9 @@ TextureImporter:
         width: 24
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Legend of Zelda - Bosses_ AQUAMENTUS3
+    - name: NES - Legend of Zelda - Bosses_2
       rect:
         serializedVersion: 2
         x: 94
@@ -92,9 +156,9 @@ TextureImporter:
         width: 24
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Legend of Zelda - Bosses_ AQUAMENTUS4
+    - name: NES - Legend of Zelda - Bosses_3
       rect:
         serializedVersion: 2
         x: 139
@@ -102,9 +166,9 @@ TextureImporter:
         width: 24
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Legend of Zelda - Bosses_Digdogger3
+    - name: NES - Legend of Zelda - Bosses_4
       rect:
         serializedVersion: 2
         x: 178
@@ -112,9 +176,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Legend of Zelda - Bosses_Digdogger4
+    - name: NES - Legend of Zelda - Bosses_5
       rect:
         serializedVersion: 2
         x: 198
@@ -122,9 +186,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Legend of Zelda - Bosses_Digdogger1
+    - name: NES - Legend of Zelda - Bosses_6
       rect:
         serializedVersion: 2
         x: 222
@@ -132,9 +196,9 @@ TextureImporter:
         width: 28
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Legend of Zelda - Bosses_Digdogger2
+    - name: NES - Legend of Zelda - Bosses_7
       rect:
         serializedVersion: 2
         x: 262
@@ -142,9 +206,9 @@ TextureImporter:
         width: 28
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Legend of Zelda - Bosses_GleeokBody1
+    - name: NES - Legend of Zelda - Bosses_8
       rect:
         serializedVersion: 2
         x: 7
@@ -152,9 +216,9 @@ TextureImporter:
         width: 24
         height: 38
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Legend of Zelda - Bosses_GleeokBody2
+    - name: NES - Legend of Zelda - Bosses_9
       rect:
         serializedVersion: 2
         x: 42
@@ -162,9 +226,9 @@ TextureImporter:
         width: 24
         height: 36
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Legend of Zelda - Bosses_GleeokBody3
+    - name: NES - Legend of Zelda - Bosses_10
       rect:
         serializedVersion: 2
         x: 77
@@ -172,29 +236,9 @@ TextureImporter:
         width: 24
         height: 38
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Legend of Zelda - Bosses_GleeokHead
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 263
-        width: 8
-        height: 16
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Legend of Zelda - Bosses_GleeokHeadGhost
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 263
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Legend of Zelda - Bosses_GleeokNeck
+    - name: NES - Legend of Zelda - Bosses_11
       rect:
         serializedVersion: 2
         x: 123
@@ -202,9 +246,29 @@ TextureImporter:
         width: 8
         height: 12
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Legend of Zelda - Bosses_0
+    - name: NES - Legend of Zelda - Bosses_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 263
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_14
       rect:
         serializedVersion: 2
         x: 1
@@ -212,7 +276,467 @@ TextureImporter:
         width: 15
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 237
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 236
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 237
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 236
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 236
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 236
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 236
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 206
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 206
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 206
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 206
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 206
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 206
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 206
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 206
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_31
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_32
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 176
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_35
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 176
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 176
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 146
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_39
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 146
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 146
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 146
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 92
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 91
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 92
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 91
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_48
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 39
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 38
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_50
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 39
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_52
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_54
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_55
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_56
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_57
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_58
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 12
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_59
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Legend of Zelda - Bosses_60
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
